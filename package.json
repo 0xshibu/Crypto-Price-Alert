@@ -1,6 +1,6 @@
 {
   "name": "crypto-price-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Cryptocurrency Price Alert script is a Node.js utility designed to monitor the price of a specified cryptocurrency and notify the user when the price crosses predefined upper or lower thresholds. This real-time monitoring tool helps users stay informed about significant price movements without the need to constantly check online exchanges or market data platforms.",
   "main": "index.js",
   "type": "module",
